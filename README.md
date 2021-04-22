@@ -14,4 +14,4 @@
 ### Usage of my code
 Right now, it just takes one slot by the name of **Location** and then the Lambda function code present in this repo takes that arguement and pass it to an API for which tells the weather of that Location and return a **confirmIntent** message. I created it for test purpose to get idea of how to use Amazon Lex service. 
 
-```Note``` api_key is an environment variable in given Lambda code. So do update it in your Lambda console. 
+```**Note:** ``` api_key is an environment variable in given Lambda code. So do update it in your Lambda console. 
